@@ -1,1 +1,7 @@
-
+Tarea uno: traducir el pseudocódigo de clase 2 estructura secuencial a sentencias de python,
+Tener en cuenta:
+          asignación
+          input()
+          print()
+          comentarios
+Entregar en formato PY
