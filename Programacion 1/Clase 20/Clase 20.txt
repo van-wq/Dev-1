@@ -1,0 +1,11 @@
+Ejemplo 5
+Ejecutar en python y entregar archivo.py
+edad=int (input ("ingrese edad : "))
+if edad >= 18:
+     print("--puede ver tv")
+if edad <= 17:
+     print("---no puedes ver tv")
+print()
+print("terminamos if")
+print()
+* Consigna: ejecutar y luego aplicar estructura while para que sirva para varias veces de ingreso de edad.
