@@ -1,1 +1,11 @@
-
+aplicamos uso de : 
+  comentario en código
+  estructura condicional : if / else
+  uso de input, print
+resolver el siguiente problema: 
+  calculamos el estado físico de una persona
+  indice de masa corporal la definimos como imc= peso/(altura *altura)
+  < 19 es delgadez
+  si está entre 20 y 25 está normal
+  si está entre 26 y 30 está en sobrepeso
+  > 30 es obesidad
