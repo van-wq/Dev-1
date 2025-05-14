@@ -1,0 +1,15 @@
+Tomamos de referencia el problema 5 de diagrama de flujo. Entregar archivos.py
+
+
+Problema1 : El cliente va a una librería y compra de 3 tipos de lapiceras Roja: cantidad 10 a un valor de $500 c/u
+Azul: cantidad 15 a un valor de  $700 c/u
+Verde: cantidad 7 a un valor de $300 c/u
+Generar un algoritmo para calcular el gasto total de cada producto y gasto total considerando que debe pagar el impuesto del iva. Pero antes de imprimir el ticket se le avisa al cliente el total . El cliente solo dispone $20.000. Si el total final es menor o igual a ese monto que dispone el cliente entonces se emite  ticket para el pago en caso contrario se genera un mensaje " Cancela compra", ya que se desea comprar todo o nada.
+
+Problema 2: El contador pide la siguiente información a su ayudante:
+Calcular el total de sueldo de sus empleados ya que dispone de solo $150.000 para el pago
+Juan tiene un básico de 20.000 
+Pedro tiene un básico de 40.000
+María tiene un básico de 50.000
+Debe calcular el sueldo por cada empleado teniendo en cuenta que se aplica el 3% de obra social y el 11 % de jubilación a cada empleado. 
+Finalmente debe obtener un total final de sueldo a pagar. Si el monto es menor o igual imprimir el mensaje : " pagar" y el total final a pagar. En caso contrario imprimir el mensaje " No alcanza".
