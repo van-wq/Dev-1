@@ -1,1 +1,2 @@
+Entregar enlace dela carpeta en nube de carpeta con 3 ejemplos en Python. El nombre de la carpeta es clase 18 cuyo enlace deben enviar.
 
